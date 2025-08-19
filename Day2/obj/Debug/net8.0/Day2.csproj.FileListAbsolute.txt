@@ -1,0 +1,15 @@
+C:\GitHub\mssa6demo\Day2\bin\Debug\net8.0\Day2.exe
+C:\GitHub\mssa6demo\Day2\bin\Debug\net8.0\Day2.deps.json
+C:\GitHub\mssa6demo\Day2\bin\Debug\net8.0\Day2.runtimeconfig.json
+C:\GitHub\mssa6demo\Day2\bin\Debug\net8.0\Day2.dll
+C:\GitHub\mssa6demo\Day2\bin\Debug\net8.0\Day2.pdb
+C:\GitHub\mssa6demo\Day2\obj\Debug\net8.0\Day2.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\mssa6demo\Day2\obj\Debug\net8.0\Day2.AssemblyInfoInputs.cache
+C:\GitHub\mssa6demo\Day2\obj\Debug\net8.0\Day2.AssemblyInfo.cs
+C:\GitHub\mssa6demo\Day2\obj\Debug\net8.0\Day2.csproj.CoreCompileInputs.cache
+C:\GitHub\mssa6demo\Day2\obj\Debug\net8.0\Day2.sourcelink.json
+C:\GitHub\mssa6demo\Day2\obj\Debug\net8.0\Day2.dll
+C:\GitHub\mssa6demo\Day2\obj\Debug\net8.0\refint\Day2.dll
+C:\GitHub\mssa6demo\Day2\obj\Debug\net8.0\Day2.pdb
+C:\GitHub\mssa6demo\Day2\obj\Debug\net8.0\Day2.genruntimeconfig.cache
+C:\GitHub\mssa6demo\Day2\obj\Debug\net8.0\ref\Day2.dll
