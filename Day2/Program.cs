@@ -1,59 +1,38 @@
-﻿namespace Day2;
+namespace Day2;
+// Excersie_Challenge_gamePlayable
 
 class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
-
-        string[,] corporate =
+        Random random = new Random();
+        Console.WriteLine("Would you like to play? (Y/N)");
+        if (ShouldPlay())
         {
-            {"Robert", "Bavin"}, {"Simon", "Bright"},
-            {"Kim", "Sinclair"}, {"Aashrita", "Kamath"},
-            {"Sarah", "Delucchi"}, {"Sinan", "Ali"}
-        };
-
-        string[,] external =
+            PlayGame();
+        }
+        
+        void PlayGame()
         {
-            {"Vinnie", "Ashton"}, {"Cody", "Dysart"},
-            {"Shay", "Lawrence"}, {"Daren", "Valdes"}
-        };
+            var play = true;
+            while (play)
+            {
+                var target;
+                var roll;
 
-        string externalDomain = "hayworth.com";
+                Console.WriteLine($"Roll a number greater than {target} to win!"); 
+                Console.WriteLine($"You rolled a {roll}"); 
+                Console.WriteLine(WinOrLose()); 
+                Console.WriteLine("\nPlay again? (Y/N)");
 
-        for (int i = 0; i < corporate.GetLength(0); i++)
-        {
-            // display internal email addresses
-            DisplayEmail(first: corporate[i, 0], last: corporate[i, 1]);
-
-
+                play = ShouldPlay();
+            }
         }
 
-        for (int i = 0; i < external.GetLength(0); i++)
-        {
-            // display external email addresses 
-            DisplayEmail(first: external[i, 0], last: external[i, 1], domain: externalDomain);
-        }
+    //define ShouldPlay()
+    
 
+    //define WinOrLose()
 
-        // robavin@contoso.com
-        // sibright@contoso.com
-        // kisinclair@contoso.com
-        // aakamath@contoso.com
-        // sadelucchi@contoso.com
-        // siali@contoso.com
-        // viashton@hayworth.com
-        // codysart@hayworth.com
-        // shlawrence@hayworth.com
-        // davaldes@hayworth.com
-    }
-
-    public static void DisplayEmail(string first, string last, string domain = "contoso.com")
-    {
-        string email = first.Substring(0, 2) + last;
-        email = email.ToLower();
-        System.Console.WriteLine($"{email}@{domain}");
     }
 }
-
-
