@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\thefo\\OneDrive\\Documents\\GitHub\\mssa6demo\\mssa6demo\\Day_1\\Day_1.csproj": {}
+    "C:\\Users\\thefo\\OneDrive\\Documents\\GitHub\\mssa6demo\\mssa6demo\\Day3\\Day3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\thefo\\OneDrive\\Documents\\GitHub\\mssa6demo\\mssa6demo\\Day_1\\Day_1.csproj": {
+    "C:\\Users\\thefo\\OneDrive\\Documents\\GitHub\\mssa6demo\\mssa6demo\\Day3\\Day3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\thefo\\OneDrive\\Documents\\GitHub\\mssa6demo\\mssa6demo\\Day_1\\Day_1.csproj",
-        "projectName": "Day_1",
-        "projectPath": "C:\\Users\\thefo\\OneDrive\\Documents\\GitHub\\mssa6demo\\mssa6demo\\Day_1\\Day_1.csproj",
+        "projectUniqueName": "C:\\Users\\thefo\\OneDrive\\Documents\\GitHub\\mssa6demo\\mssa6demo\\Day3\\Day3.csproj",
+        "projectName": "Day3",
+        "projectPath": "C:\\Users\\thefo\\OneDrive\\Documents\\GitHub\\mssa6demo\\mssa6demo\\Day3\\Day3.csproj",
         "packagesPath": "C:\\Users\\thefo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\thefo\\OneDrive\\Documents\\GitHub\\mssa6demo\\mssa6demo\\Day_1\\obj\\",
+        "outputPath": "C:\\Users\\thefo\\OneDrive\\Documents\\GitHub\\mssa6demo\\mssa6demo\\Day3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\thefo\\AppData\\Roaming\\NuGet\\NuGet.Config"

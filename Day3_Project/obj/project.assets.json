@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\thefo\\OneDrive\\Documents\\GitHub\\mssa6demo\\mssa6demo\\Day_1\\Day_1.csproj",
-      "projectName": "Day_1",
-      "projectPath": "C:\\Users\\thefo\\OneDrive\\Documents\\GitHub\\mssa6demo\\mssa6demo\\Day_1\\Day_1.csproj",
+      "projectUniqueName": "C:\\Users\\thefo\\OneDrive\\Documents\\GitHub\\mssa6demo\\mssa6demo\\Day3_Project\\Day3_Project.csproj",
+      "projectName": "Day3_Project",
+      "projectPath": "C:\\Users\\thefo\\OneDrive\\Documents\\GitHub\\mssa6demo\\mssa6demo\\Day3_Project\\Day3_Project.csproj",
       "packagesPath": "C:\\Users\\thefo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\thefo\\OneDrive\\Documents\\GitHub\\mssa6demo\\mssa6demo\\Day_1\\obj\\",
+      "outputPath": "C:\\Users\\thefo\\OneDrive\\Documents\\GitHub\\mssa6demo\\mssa6demo\\Day3_Project\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\thefo\\AppData\\Roaming\\NuGet\\NuGet.Config"
