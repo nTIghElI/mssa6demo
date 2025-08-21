@@ -1,0 +1,15 @@
+C:\Users\thefo\OneDrive\Documents\GitHub\mssa6demo\mssa6demo\Day3_Project\bin\Debug\net8.0\Day3_Project.exe
+C:\Users\thefo\OneDrive\Documents\GitHub\mssa6demo\mssa6demo\Day3_Project\bin\Debug\net8.0\Day3_Project.deps.json
+C:\Users\thefo\OneDrive\Documents\GitHub\mssa6demo\mssa6demo\Day3_Project\bin\Debug\net8.0\Day3_Project.runtimeconfig.json
+C:\Users\thefo\OneDrive\Documents\GitHub\mssa6demo\mssa6demo\Day3_Project\bin\Debug\net8.0\Day3_Project.dll
+C:\Users\thefo\OneDrive\Documents\GitHub\mssa6demo\mssa6demo\Day3_Project\bin\Debug\net8.0\Day3_Project.pdb
+C:\Users\thefo\OneDrive\Documents\GitHub\mssa6demo\mssa6demo\Day3_Project\obj\Debug\net8.0\Day3_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thefo\OneDrive\Documents\GitHub\mssa6demo\mssa6demo\Day3_Project\obj\Debug\net8.0\Day3_Project.AssemblyInfoInputs.cache
+C:\Users\thefo\OneDrive\Documents\GitHub\mssa6demo\mssa6demo\Day3_Project\obj\Debug\net8.0\Day3_Project.AssemblyInfo.cs
+C:\Users\thefo\OneDrive\Documents\GitHub\mssa6demo\mssa6demo\Day3_Project\obj\Debug\net8.0\Day3_Project.csproj.CoreCompileInputs.cache
+C:\Users\thefo\OneDrive\Documents\GitHub\mssa6demo\mssa6demo\Day3_Project\obj\Debug\net8.0\Day3_Project.sourcelink.json
+C:\Users\thefo\OneDrive\Documents\GitHub\mssa6demo\mssa6demo\Day3_Project\obj\Debug\net8.0\Day3_Project.dll
+C:\Users\thefo\OneDrive\Documents\GitHub\mssa6demo\mssa6demo\Day3_Project\obj\Debug\net8.0\refint\Day3_Project.dll
+C:\Users\thefo\OneDrive\Documents\GitHub\mssa6demo\mssa6demo\Day3_Project\obj\Debug\net8.0\Day3_Project.pdb
+C:\Users\thefo\OneDrive\Documents\GitHub\mssa6demo\mssa6demo\Day3_Project\obj\Debug\net8.0\Day3_Project.genruntimeconfig.cache
+C:\Users\thefo\OneDrive\Documents\GitHub\mssa6demo\mssa6demo\Day3_Project\obj\Debug\net8.0\ref\Day3_Project.dll

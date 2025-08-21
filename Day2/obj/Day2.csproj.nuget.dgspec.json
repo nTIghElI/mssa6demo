@@ -1,32 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\GitHub\\mssa6demo\\Day2\\Day2.csproj": {}
+    "C:\\Users\\thefo\\OneDrive\\Documents\\GitHub\\mssa6demo\\mssa6demo\\Day2\\Day2.csproj": {}
   },
   "projects": {
-    "C:\\GitHub\\mssa6demo\\Day2\\Day2.csproj": {
+    "C:\\Users\\thefo\\OneDrive\\Documents\\GitHub\\mssa6demo\\mssa6demo\\Day2\\Day2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\GitHub\\mssa6demo\\Day2\\Day2.csproj",
+        "projectUniqueName": "C:\\Users\\thefo\\OneDrive\\Documents\\GitHub\\mssa6demo\\mssa6demo\\Day2\\Day2.csproj",
         "projectName": "Day2",
-        "projectPath": "C:\\GitHub\\mssa6demo\\Day2\\Day2.csproj",
+        "projectPath": "C:\\Users\\thefo\\OneDrive\\Documents\\GitHub\\mssa6demo\\mssa6demo\\Day2\\Day2.csproj",
         "packagesPath": "C:\\Users\\thefo\\.nuget\\packages\\",
-        "outputPath": "C:\\GitHub\\mssa6demo\\Day2\\obj\\",
+        "outputPath": "C:\\Users\\thefo\\OneDrive\\Documents\\GitHub\\mssa6demo\\mssa6demo\\Day2\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\thefo\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\thefo\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -44,8 +37,7 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.300"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -66,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.413/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
